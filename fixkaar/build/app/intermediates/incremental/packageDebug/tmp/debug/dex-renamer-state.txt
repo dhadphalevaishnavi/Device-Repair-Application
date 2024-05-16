@@ -1,0 +1,4 @@
+#Fri Feb 16 20:51:48 IST 2024
+base.0=/mnt/storage0/startup0/Android/fixkaar/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

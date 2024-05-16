@@ -1,0 +1,1 @@
+ /mnt/storage0/startup0/Android/fixkaar/.dart_tool/flutter_build/13b1a58611f4eb8a86149e672d465ff6/native_assets.yaml: 

@@ -1,0 +1,4 @@
+#Tue Feb 06 02:21:37 IST 2024
+base.0=/mnt/storage0/startup0/Android/fixkaar/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
